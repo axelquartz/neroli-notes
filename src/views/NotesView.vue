@@ -8,7 +8,7 @@
       </v-col>
       <v-col cols="auto">
         <v-btn
-          color="primary"
+          color="secondary"
           prepend-icon="mdi-plus"
           elevation="2"
           @click="dialog = true"
